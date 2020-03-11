@@ -550,6 +550,13 @@ footer ul li h3{
   margin-bottom: 20px;
   color: #000;
 }
+li.idioma {
+  text-align: center;
+  font-size: 26px;
+  line-height: 30px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
 .content-acc .acc-lista > li .acc-lista-body.body-second ul li.titulo-2 {
   font-weight: bold;
   list-style: none;
