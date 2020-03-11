@@ -153,8 +153,8 @@ nav{
   background-size: cover;
   border-top: 0;
   display: -ms-flexbox;
-  height: 35rem !important;
-  min-height: 35rem;
+  height: 29rem !important;
+  min-height: 29rem;
   overflow: hidden;
   position: relative;
   text-align: center;
@@ -365,6 +365,12 @@ footer ul li h3{
   }
   .logo-wom{
     margin-bottom: 20px;
+  }
+  .banner-logo{
+    max-width: 280px;
+  }
+  .logo-startup{
+    max-width: 200px;
   }
   .info{
     padding: 20px 0;
