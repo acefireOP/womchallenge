@@ -597,3 +597,20 @@ li.idioma {
   font-size: 16px;
   line-height: 20px;
 }
+.button-scroll {
+  color: #E92070;
+  border: 1px solid #E92070;
+  background-color: #fff;
+  display: none;
+  padding: 10px;
+  width: 100%;
+  max-width: 200px;
+  margin: 20px auto 0;
+  text-align: center;
+  cursor: pointer;
+}
+@media (max-width: 640px) {
+  .button-scroll {
+    display: block;
+  }
+}
